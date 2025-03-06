@@ -38,16 +38,16 @@ The features are used to group customers into distinct clusters are : Annual Inc
 
 
 ## 📈 Methodology
-1️⃣ Data Preprocessing: Cleaned and prepared the dataset for clustering.
-2️⃣ Finding the Optimal Clusters: Used the Elbow Method to determine the best number of clusters.
-3️⃣ Applying K-Means Clustering: Implemented K-Means to segment customers.
-4️⃣ Visualization: Plotted the clusters for better understanding.
+<br>1️⃣ Data Preprocessing: Cleaned and prepared the dataset for clustering.
+<br>2️⃣ Finding the Optimal Clusters: Used the Elbow Method to determine the best number of clusters.
+<br>3️⃣ Applying K-Means Clustering: Implemented K-Means to segment customers.
+<br>4️⃣ Visualization: Plotted the clusters for better understanding.
 
 
 ## 📌 Key Insights
-📊 Elbow Method: Identified the optimal number of clusters using the WCSS (Within-Cluster Sum of Squares).
-📌 Cluster Formation: Customers were segmented into 5 groups based on their spending habits and income levels.
-📢 Business Impact: Helps businesses make informed decisions about personalized marketing and customer retention strategies.
+<br>📊 Elbow Method: Identified the optimal number of clusters using the WCSS (Within-Cluster Sum of Squares).
+<br>📌 Cluster Formation: Customers were segmented into 5 groups based on their spending habits and income levels.
+<br>📢 Business Impact: Helps businesses make informed decisions about personalized marketing and customer retention strategies.
 
 
 ## 📷 Visualizations
