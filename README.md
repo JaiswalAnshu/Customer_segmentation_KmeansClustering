@@ -31,10 +31,10 @@ The features are used to group customers into distinct clusters are : Annual Inc
 ## 🔧 Tech Stack & Tools
 🛠 Libraries Used:
 
-Pandas → Data manipulation
-NumPy → Mathematical operations
-Matplotlib & Seaborn → Data visualization
-Scikit-Learn → K-Means Clustering
+- Pandas → Data manipulation
+- NumPy → Mathematical operations
+- Matplotlib & Seaborn → Data visualization
+- Scikit-Learn → K-Means Clustering
 
 
 ## 📈 Methodology
