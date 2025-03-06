@@ -11,9 +11,9 @@ This analysis would go through the Customer base and divides it into clusters en
 Businesses interact with a diverse range of customers. However, one-size-fits-all marketing strategies often fail to engage all customer types effectively.
 
 💡 Goal: To group similar customers together based on their behaviors and attributes, allowing businesses to:
-✅ Personalize marketing campaigns
-✅ Improve customer engagement
-✅ Increase revenue by targeting the right audience
+<br>✅ Personalize marketing campaigns
+<br>✅ Improve customer engagement
+<br>✅ Increase revenue by targeting the right audience
 
 
 ## 📊 Dataset
